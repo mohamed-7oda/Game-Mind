@@ -27,7 +27,7 @@ The system combines computer vision and deep learning techniques with a modern w
 
 ### 🌐 Web Interface
 
-* Upload match videos بسهولة
+* Upload match videos
 * Choose between tracking or event detection
 * Visualize results instantly in browser
 * Modern UI built with React
